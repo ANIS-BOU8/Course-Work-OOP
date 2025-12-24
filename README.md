@@ -18,4 +18,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ANIS-BOU8/aviation-ticket-system.git
+  [ git clone https://github.com/ANIS-BOU8/aviation-ticket-system.git](https://github.com/ANIS-BOU8/Course-Work-OOP.git)
